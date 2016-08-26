@@ -1,0 +1,22 @@
+{
+  "author": "whyrusleeping",
+  "bugs": {
+    "url": "https://github.com/ipfs/go-ds-lru"
+  },
+  "gx": {
+    "dvcsimport": "github.com/ipfs/go-ds-lru"
+  },
+  "gxDependencies": [
+    {
+      "author": "hashicorp",
+      "hash": "QmVYxfoJQiZijTgPNHCHgHELvQpbsJNTg6Crmc3dQkj3yy",
+      "name": "golang-lru",
+      "version": "0.0.0"
+    }
+  ],
+  "gxVersion": "0.8.0",
+  "language": "go",
+  "license": "",
+  "name": "go-ds-lru",
+  "version": "0.0.0"
+}
