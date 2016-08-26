@@ -12,11 +12,17 @@
       "hash": "QmVYxfoJQiZijTgPNHCHgHELvQpbsJNTg6Crmc3dQkj3yy",
       "name": "golang-lru",
       "version": "0.0.0"
+    },
+    {
+      "author": "jbenet",
+      "hash": "QmbzuUusHqaLLoNTDEVLcSF6vZDHZDLPC7p4bztRvvkXxU",
+      "name": "go-datastore",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.8.0",
   "language": "go",
   "license": "",
   "name": "go-ds-lru",
-  "version": "0.0.0"
+  "version": "1.0.0"
 }
